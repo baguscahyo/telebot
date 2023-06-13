@@ -1,14 +1,14 @@
 <?php  
 // ===== BEGIN / Input Variable =====
-define("VAR_MYSQL_HOST", ì<hostmysql>î);
-define("VAR_MYSQL_USER", ì<usermysql>î);
-define("VAR_MYSQL_PASSWORD", ì<passmysql>î);
-define("VAR_MYSQL_DBNAME", ì<dbname>ì);
-define("VAR_BOT_TOKEN", ì<token>ì);
-define("VAR_TELEGRAM_CHATID", ì<chatid>ì);
-define("VAR_PROXY_SERVER", ì<proxyserver>ì);
-define("VAR_CACERT_PATHFILE", ì<cafile>î); 
-define("VAR_RTOTIME_TOLERANT", ì<rtotolerant>ì); // max 59 minutes
+define("VAR_MYSQL_HOST", ‚Äú<hostmysql>‚Äù);
+define("VAR_MYSQL_USER", ‚Äú<usermysql>‚Äù);
+define("VAR_MYSQL_PASSWORD", ‚Äú<passmysql>‚Äù);
+define("VAR_MYSQL_DBNAME", ‚Äú<dbname>‚Äú);
+define("VAR_BOT_TOKEN", ‚Äú<token>‚Äú);
+define("VAR_TELEGRAM_CHATID", ‚Äú<chatid>‚Äú);
+define("VAR_PROXY_SERVER", ‚Äú<proxyserver>‚Äú);
+define("VAR_CACERT_PATHFILE", ‚Äú<cafile>‚Äù); 
+define("VAR_RTOTIME_TOLERANT", ‚Äú<rtotolerant>‚Äú); // max 59 minutes
 
  
 // ===== BEGIN / Connection =====
